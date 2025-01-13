@@ -1,0 +1,4 @@
+import os
+
+paths = [os.path.join("persons", im) for im in os.listdir("persons")]
+print("Filenames in 'persons':", [os.path.basename(path) for path in paths])
