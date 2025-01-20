@@ -1,9 +1,3 @@
-SMARTCCTV
-This is a tkinter gui app for converting your normal laptop camera to smart camera.
-you just need to run main.py file inorder to run full app 
-you would need :
-opencv
-tkinter
-installed to run these scripts properly
-thanks
+ The Smart CCTV System aims to overcome the challenges led by conventional cctv system by incorporating AI and real-time processing capabilities. This system not only ensures better safety and security but also optimizes resource utilization by minimizing human intervention. This is a python GUI application which can run on any operating system, uses webcam and has number of features.
+
 
